@@ -12,5 +12,7 @@ npm i
 npm start
 ```
 
-[renaco figma-demo-api](http://renaco.github.com/) 
+or go to url
+
+[renaco figma-demo-api](http://renaco.github.com/figma-demo-api) 
 
