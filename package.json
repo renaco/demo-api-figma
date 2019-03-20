@@ -1,0 +1,20 @@
+{
+  "name": "figma-demo-api",
+  "version": "1.0.0",
+  "description": "Get properties from Figma API",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com:renaco/figma-demo-api.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "homepage": "https://bitbucket.org/orbisunt/charmander#readme",
+  "devDependencies": {
+    "live-server": "^1.2.1"
+  },
+  "scripts": {
+    "start": "live-server ./src",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
