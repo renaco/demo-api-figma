@@ -14,5 +14,5 @@ npm start
 
 or go to url
 
-[renaco figma-demo-api](http://renaco.github.com/figma-demo-api) 
+[figma-demo-api](http://renaco.github.com/figma-demo-api) 
 
